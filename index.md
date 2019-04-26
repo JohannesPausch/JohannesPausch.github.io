@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Stochastic Processes - Models and Simulations
 
-You can use the [editor on GitHub](https://github.com/JohannesPausch/JohannesPausch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm interested in stochastic processes in nature, society and finance. They can be microscopic, for example in chemical reactions or macroscopic like dynamics of population; they can be on short time scales, as in limit order books, or over a long time such as during the evolution of organisms. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My workflow:
+- Identifiy what are the important features (space, interactions, memory?)
+- Build analytically tractable model that shares these features
+- Compare to simulations and real world 
+
+There is a plethora of methods for analytical models out there and a large spectrum of techniques to create simulations. Similarly, analysing data can be done in a hundred different ways. Here are my personal favorites:
+- **Doi-Peliti field theory** for creating models. This class of models originated in in the 1970s and 80s in theoretical physics and has been used to understand emergent phenomena in chemical reactions and population dynamics. As a comparatively young theory, there is still a lot of research on what it can and cannot achieve. Of course _you shouldn't ask what field theory can do for you, but what you can do for field theory_.
+- **C** for simulations. This is often debated: what programming language should you use. There are pros and cons for every language, but I rarely hear that C is slower than another language (unless you use assembler or highly optimized Fortran). In combination with the **GNU Scientific Library**, the stochastic world is your oyster.
+- Comparing analytics to simulations and data can be tricky and I don't have any favorites here. But, fitting power laws is an art in itself. 
 
 ### Markdown
 
@@ -28,10 +36,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JohannesPausch/JohannesPausch.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

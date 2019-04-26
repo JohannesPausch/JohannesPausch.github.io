@@ -1,5 +1,5 @@
 ## Current Role
-Doctoral Prize Fellow in the Department of Mathematics at Imperial College Londond
+Doctoral Prize Fellow in the Department of Mathematics at Imperial College London
 
 ## Previous Positions and Education
 

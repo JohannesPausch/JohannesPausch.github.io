@@ -2,6 +2,9 @@
 
 I'm interested in stochastic processes in nature, society and finance. They can be microscopic, for example in chemical reactions or macroscopic like dynamics of population; they can be on short time scales, as in limit order books, or over a long time such as during the evolution of organisms. 
 
+More about me is [here](CV.md).
+My website at Imperial College is [here](http://www.imperial.ac.uk/people/j.pausch15)
+
 My workflow:
 - Identifiy what are the important features (space, interactions, memory?)
 - Build analytically tractable model that shares these features

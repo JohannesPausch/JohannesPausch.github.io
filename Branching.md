@@ -11,8 +11,10 @@ double currenttime = 0; // event times
 double maxtime = 1000; // time when the simulation is aborted
 
 while (currenttime < maxtime){
-   currenttime = currenttime + gsl_ran_exponential(r,1.0/((double) currentparticlenumber)); // new event time is generated
-   currentparticlenumber = currentparticlenumber+gsl_ran_geometric(r, p0)-2; // particles are created or destroyed
+   // a new random event time is generated
+   currenttime = currenttime + gsl_ran_exponential(r,1.0/((double) currentparticlenumber));
+   // particles are randomly created or destroyed
+   currentparticlenumber = currentparticlenumber + gsl_ran_geometric(r, p0)-2; 
    // an OBSERVABLE can be placed here
 }
 

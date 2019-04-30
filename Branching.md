@@ -6,15 +6,18 @@
 The core code for simulating a continuous-time branching process draws exponentially distributed event times and updates the number of particles according to a offspring distribution (a geometric distribution in the example code below) 
 
 ```C
-int currentparticlenumber = 1; // number of particles in the system at time currenttime
-double currenttime = 0; // event times
-double maxtime = 1000; // time when the simulation is aborted
+// number of particles in the system at time currenttime
+int currentparticlenumber = 1;
+// event times
+double currenttime = 0;
+// time when the simulation is aborted
+double maxtime = 1000; 
 
 while (currenttime < maxtime){
    // a new random event time is generated
-   currenttime = currenttime + gsl_ran_exponential(r,1.0/((double) currentparticlenumber));
+   currenttime += gsl_ran_exponential(r,1.0/((double) currentparticlenumber));
    // particles are randomly created or destroyed
-   currentparticlenumber = currentparticlenumber + gsl_ran_geometric(r, p0)-2; 
+   currentparticlenumber += gsl_ran_geometric(r, p0)-2; 
    // an OBSERVABLE can be placed here
 }
 

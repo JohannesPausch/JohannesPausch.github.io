@@ -20,7 +20,7 @@ There is a plethora of methods for analytical models out there and a large spect
 
 ### [Branching](Branching.md)
 ### Noisy Branching
-### Pumped Branching
+### Neural Spikes
 ### Coupled Branching
 
 

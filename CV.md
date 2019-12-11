@@ -1,9 +1,10 @@
 ## Current Role
-Teaching and Research Fellow in Mathematics, and Director of Studies for Mathematics at St. Catharine's College, Department of Applied Mathematics and Theoeretical Physics, University of Cambridge
+Teaching and Research Fellow and Director of Studies for Mathematics at St. Catharine's College, 
+Department of Applied Mathematics and Theoeretical Physics, University of Cambridge
 
 ## Previous Positions and Education
 
-| 2019 | Doctoral Prize Fellow in the Department of Mathematics at Imperial College London |
+| 2019 | Doctoral Prize Fellow in Mathematics, Imperial College London |
 | 2015 - 2019 | PhD in Mathematics, Imperial College London |
 | Feb - July 2015 | Nuclear Data Analysis Intern, Target Systemelektronik, Wuppertal, Germany |
 | Sep - Dec 2014 | Japan Language and Japan Studies Program, Nihon University, Tokyo |

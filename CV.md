@@ -1,6 +1,6 @@
 ## Current Role
 Since September 2019: Teaching and Research Fellow and Director of Studies for Mathematics at St. Catharine's College, and at the 
-Department of Applied Mathematics and Theoeretical Physics, University of Cambridge
+Department of Applied Mathematics and Theoretical Physics, University of Cambridge
 
 ## Previous Positions and Education
 
@@ -10,7 +10,7 @@ Department of Applied Mathematics and Theoeretical Physics, University of Cambri
 | Sep - Dec 2014 | Japan Language and Japan Studies Program, Nihon University, Tokyo |
 | 2013 - 2014 | MASt in Physics, University of Cambridge |
 | 2011 - 2013 | MSc in Mathematics, Sorbonne University, Paris VI |
-| 2009 - 2011 | BSc in Mathematics, Technischen Universität Berlin |
+| 2009 - 2011 | BSc in Mathematics, Technische Universität Berlin |
 | 2008 - 2011 | BSc in Physics, Technische Universität Berlin |
 
 ## Publications

@@ -9,7 +9,7 @@ My workflow:
 - Identifiy what are the important features (space, interactions, memory?)
 - Build analytically tractable model that shares these features
 - Compare to simulations and real world
-- get confused/awed by real world and start workflow at the top again
+- Get confused/awed by real world and start workflow at the top again
 
 There is a plethora of methods for analytical models out there and a large spectrum of techniques to create simulations. Similarly, analysing data can be done in a hundred different ways. Here are my personal favorites:
 - **Doi-Peliti field theory** for creating models. This class of models originated in in the 1970s and 80s in theoretical physics and has been used to understand emergent phenomena in chemical reactions and population dynamics. As a comparatively young theory, there is still a lot of research on what it can and cannot achieve. Of course _you shouldn't ask what field theory can do for you, but what you can do for field theory_.

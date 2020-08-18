@@ -12,7 +12,7 @@ Using Doi-Peliti field theory, we characterized analytically the behaviour of a 
 
 $$ \mathcal{A}=\int \widetilde\phi(t)(-\partial_t-r)\phi(t)+\sum\limits_{j\ge2}q_j\widetilde\phi^j(t)\phi(t) \,\text{d}t $$
 
-where $$r=s(1-\mathbb{E}[K])$$ is the order parameter and $$q_j=\mathbb{E}[(K)_j]/j!$$ is the $$j$$th factorial moment of $$K$$ divided by $j!$. If $$r>0$$, the process is subcritical and all realizations of the process eventually become empty. If $$r<0$$, the process is supercritical and some realization might never become empty. 
+where $$r=s(1-\mathbb{E}[K])$$ is the order parameter and $$q_j=\mathbb{E}[(K)_j]/j!$$ is the $$j$$th factorial moment of $$K$$ divided by $$j!$$. If $$r>0$$, the process is subcritical and all realizations of the process eventually become empty. If $$r<0$$, the process is supercritical and some realization might never become empty. How to derive the action and how to use it to find the probability of survival, the avalanche shape, correlation functions and many more observables can be found in the article above.
 
 The core code for simulating a continuous-time branching process draws exponentially distributed event times and updates the number of particles according to a offspring distribution (a geometric distribution in the example code below) 
 

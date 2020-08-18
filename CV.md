@@ -1,6 +1,7 @@
 ## Current Role
 Since September 2019: Teaching and Research Fellow and Director of Studies for Mathematics at St. Catharine's College, and at the 
 Department of Applied Mathematics and Theoretical Physics, University of Cambridge
+Since October 2020, I have been a Tutor at St. Catharine's College.
 
 ## Previous Positions and Education
 
@@ -15,6 +16,7 @@ Department of Applied Mathematics and Theoretical Physics, University of Cambrid
 
 ## Publications
 
+- Time-dependent branching processes: a model of oscillating neuronal avalanches. with R. Garcia-Millan and G. Pruessner. _Sci. Rep._ **10** 13678 (2020) 
 - Is actin filament and microtubule growth reaction- or diffusion-limited? with G. Pruessner. _J. Stat. Mech.: Theory Exp._ 053501 (2019)
 - Field-theoretic approach to the universality of branching processes: Garcia-Millan, Pausch, Walter, Pruessner, _Phys. Rev. E_ **98** (2018)
 - First-order wedge wetting revisited: Rascon, Pausch, Parry, _Soft Matter_ **14** (2018)

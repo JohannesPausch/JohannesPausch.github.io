@@ -7,4 +7,4 @@ Avalanches in the brain exhibit two seemingly contradicting characteristics: the
 The article explores how both properties can coexist by considering branching processes close to criticality for which the extinction rate oscillates.
 
 # Methods and Results
-The article is based on the project on the field theory of branching processes and adjusts the used action to include oscillating parameters.
+The article is based on the project on the field theory of [branching processes](Branching.md) and adjusts the used action to include oscillating parameters.

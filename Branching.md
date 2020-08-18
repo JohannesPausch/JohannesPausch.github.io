@@ -8,7 +8,8 @@ Branching processes are stochastic processes, in which a particle (or individual
 Using Doi-Peliti field theory, we characterized analytically the behaviour of a large class of branching processes close to criticality. The central object from which all properties of the process are derived is the action
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"> 
 </script>
-$$ a=d $$
+
+$$ \mathcal{A}=\int \widetilde\phi(t)(-\partial_t-r)\phi(t)+\sum\limits_{j\ge2}q_j\widetilde\phi^j(t)\phi(t) dt $$
 
 The core code for simulating a continuous-time branching process draws exponentially distributed event times and updates the number of particles according to a offspring distribution (a geometric distribution in the example code below) 
 

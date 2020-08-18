@@ -9,9 +9,9 @@ Using Doi-Peliti field theory, we characterized analytically the behaviour of a 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"> 
 </script>
 
-$$ \mathcal{A}=\int \widetilde\phi(t)(-\partial_t-r)\phi(t)+\sum\limits_{j\ge2}q_j\widetilde\phi^j(t)\phi(t) dt $$
+$$ \mathcal{A}=\int \widetilde\phi(t)(-\partial_t-r)\phi(t)+\sum\limits_{j\ge2}q_j\widetilde\phi^j(t)\phi(t) \,\text{d}t $$
 
-The core code for simulating a continuous-time branching process draws exponentially distributed event times and updates the number of particles according to a offspring distribution (a geometric distribution in the example code below) 
+where $$r=s(1-\mathbb{E}[K])$$. The core code for simulating a continuous-time branching process draws exponentially distributed event times and updates the number of particles according to a offspring distribution (a geometric distribution in the example code below) 
 
 ```C
 // number of particles in the system at time currenttime

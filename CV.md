@@ -1,7 +1,7 @@
 ## Current Role
 Since September 2019: Teaching and Research Fellow and Director of Studies for Mathematics at St. Catharine's College, and at the 
-Department of Applied Mathematics and Theoretical Physics, University of Cambridge
-Since October 2020, I have been a Tutor at St. Catharine's College.
+Department of Applied Mathematics and Theoretical Physics, University of Cambridge.
+Since October 2020, I have also been a Tutor at St. Catharine's College.
 
 ## Previous Positions and Education
 

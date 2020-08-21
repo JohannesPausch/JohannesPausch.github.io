@@ -1,4 +1,4 @@
-## Brief introduction to Doi-Peliti Field Theory
+# Brief introduction to Doi-Peliti Field Theory
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"> </script>
 Doi-Peliti Field Theory is a method to describe stochastic processes which can be cast in a Master Equation. It is an equivalent representation to the Master Equation and does inprinciple not involve simplifications or approximations which can occur when deriving Fokker-Planck Equations or Langevin Equations.
@@ -11,7 +11,7 @@ The reason why I present some introductory information about Doi-Peliti Field Th
 
 A useful introductory example is the system in which particles undergo an extinction process and a spontaneous creation process. We use $$\epsilon$$ as extinction rate and $$\gamma$$ as spontaneous creation rate. Then the three derivation steps work out as follows:
 
-# Master Equation
+## Master Equation
 
 Let's denote the probability that the system contains $$n$$ particles at time $$t$$ by $$P(N=n,t)$$. Then the Master Equation is
 
@@ -23,7 +23,7 @@ Although we only wrote one equation, the Master Equation is a system of infinite
 
 The Master Equation could be solved directly, but here we want to illustrate how to derive a Doi-Peliti field theory in principle.
 
-# Second Quantization
+## Second Quantization
 
 Second Quantization is a language that hides some of the complicated functions we are dealing with behind nice notation. If the system contains $$n$$ particles, we write $$\vert n\rangle $$. We introduce operators $$a$$ and $$a^\dagger$$ which have the following properties:
 
@@ -50,3 +50,7 @@ $$\mathcal{A}[\widetilde\phi,\phi]=\int\widetilde\phi(-\partial_t)\phi+\mathcal{
 $$n$$-point correlation functions can then be calculated from the Path Integral
 
 $$\langle\bullet\rangle=\int\mathcal{D}[\widetilde\phi,\phi]\bullet e^{\mathcal{A}[\widetilde\phi,\phi]}$$
+
+For example, in order to calculate the mean number of particles in the steady state, we calculate
+
+$$\mathbb{E}[N]=\langle\phi\rangle=\frac{\gamma}{\epsilon}$$

@@ -16,6 +16,7 @@ A useful introductory example is the system in which particles undergo an extinc
 Let's denote the probability that the system contains $$n$$ particles at time $$t$$ by $$P(N=n,t)$$. Then the Master Equation is
 
 $$\frac{\partial}{\partial t}P(N=n,t)=\epsilon\Bigl((n+1)P(N=n+1,t)-nP(N=n,t)\Bigr)+$$
+
 $$+\gamma\Bigl(P(N=n-1,t)-P(N=n,t)\Bigr)$$
 
 Although we only wrote one equation, the Master Equation is a system of infinitely many linear coupled ordinary differntial equations - one equation for every $$n\in\mathbb{N}_0$$.

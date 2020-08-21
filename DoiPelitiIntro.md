@@ -64,7 +64,9 @@ which would be represented by this admittedly simple Feynman diagram
 <script type="text/tikz">
   \begin{tikzpicture}
     \filldraw[very thick,color=teal] (-0.5,0) -- (0.5,0) circle [radius=0.1cm];
-    \draw[->] (-0.9,-0.6) node {propagator} -- (-0.1,-0.1);
-    \draw [->] (1.0,-0.6) node {source} -- (0.6,-0.1);
+    \draw[->] (-0.9,-0.6) node {\tiny propagator} -- (-0.1,-0.1);
+    \draw [->] (1.0,-0.6) node {\tiny source} -- (0.6,-0.1);
   \end{tikzpicture}
 </script>
+
+In particular, the Feynman diagrams of a Doi-Peliti Field theory are read from right to left.

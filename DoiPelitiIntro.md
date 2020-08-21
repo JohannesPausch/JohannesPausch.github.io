@@ -63,8 +63,6 @@ which would be represented by this admittedly simple Feynman diagram
 
 <script type="text/tikz">
   \begin{tikzpicture}
-    \draw[very thick,color=red] (-0.5,0) -- (0.5,0) node {$$\times$$};
-    \draw (-0.1,-0.2) node {$$\underbrace{\hspace{0.9cm}_{\text{propagator}}}$$};
-    \draw[<-] (0.55,-0.1) -- (0.7,-0.5) node {source};
+    \draw (-0.5,0) -- (0.5,0);
   \end{tikzpicture}
 </script>

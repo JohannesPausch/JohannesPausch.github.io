@@ -57,10 +57,14 @@ $$\langle\bullet\rangle=\int\mathcal{D}[\widetilde\phi,\phi]\bullet e^{\mathcal{
 
 For example, in order to calculate the mean number of particles in the steady state, we calculate
 
-$$\mathbb{E}[N]=\langle\phi(t)\rangle=\int\underbrace{\frac{\delta(\omega+\omega')e^{-i\omega t}}{-i\omega+\epsilon}}_{\text{propagator}}\underbrace{\gamma\delta(\omega')}_{\text{source}}\text{d}\omega'\text{d}\omega=\frac{\gamma}{\epsilon}$$
+$$\mathbb{E}[N]=\langle\phi(t)\rangle=\int\underbrace{\frac{\delta(\omega+\omega')e^{-i\omega t}}{-i\omega+\epsilon}}_{\text{propagator}}\underbrace{\gamma\delta(\omega')}_{\text{source}}\text{d}\omega'\text{d}\omega=\frac{\gamma}{\epsilon},$$
+
+which would be represented by this admittedly simple Feynman diagram
 
 <script type="text/tikz">
   \begin{tikzpicture}
-    \draw (0,0) circle (1in);
+    \draw[very thick,color=red] (-0.5,0) -- (0.5,0) node {$$\times$$};
+    \draw (-0.1,-0.2) node {$$\underbrace{\hspace{0.9cm}_{\text{propagator}}}$$};
+    \draw[<-] (0.55,-0.1) -- (0.7,-0.5) node {source};
   \end{tikzpicture}
 </script>

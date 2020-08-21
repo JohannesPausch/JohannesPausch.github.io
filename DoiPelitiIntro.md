@@ -23,7 +23,7 @@ The Master Equation could be solved directly, but here we want to illustrate how
 
 # Second Quantization
 
-Second Quantization is a language that hides some of the complicated functions we are dealing with behind nice notation. If the system contains $$n$$ particles, we write $$\|n\rangle $$. We introduce operators $$a$$ and $$a^\dagger$$ which have the following properties:
+Second Quantization is a language that hides some of the complicated functions we are dealing with behind nice notation. If the system contains $$n$$ particles, we write $$\vert n\rangle $$. We introduce operators $$a$$ and $$a^\dagger$$ which have the following properties:
 
 $$[a,a^\dagger]=aa^\dagger-a^\dagger a=1$$
 
@@ -41,7 +41,7 @@ $$\frac{\partial}{\partial t}|\mathcal{M}(t)\rangle=\underbrace{\Bigl(\epsilon(1
 
 ## The Action of the Field Theory
 
-Once the equation for $$\partial\|\mathcal{M}(t)\rangle/\partial t $$ is derived the action of the field theory can be readily written down as follows
+Once the equation for $$\partial\vert\mathcal{M}(t)\rangle/\partial t $$ is derived the action of the field theory can be readily written down as follows
 
 $$\mathcal{A}[\widetilde\phi,\phi]=\int\widetilde\phi(-\partial_t)\phi+\mathcal{H}[\widetilde\phi+1,\phi]\,dt$$
 

@@ -1,4 +1,5 @@
-# Brief introduction to Doi-Peliti Field Theory
+# Brief introduction to 
+# Doi-Peliti Field Theory
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"> </script>
 Doi-Peliti Field Theory is a method to describe stochastic processes which can be cast in a Master Equation. It is an equivalent representation to the Master Equation and does inprinciple not involve simplifications or approximations which can occur when deriving Fokker-Planck Equations or Langevin Equations.
@@ -53,4 +54,4 @@ $$\langle\bullet\rangle=\int\mathcal{D}[\widetilde\phi,\phi]\bullet e^{\mathcal{
 
 For example, in order to calculate the mean number of particles in the steady state, we calculate
 
-$$\mathbb{E}[N]=\langle\phi\rangle=\frac{\gamma}{\epsilon}$$
+$$\mathbb{E}[N]=\langle\phi\rangle=\int\underbrace{\frac{\delta(\omega+\omega')}{-i\omega+\epsilon}}_{\text{propagator}}\underbrace{\gamma\delta(\omega')}_{\text{source}}\text{d}\omega'\text{d}\omega'=\frac{\gamma}{\epsilon}$$

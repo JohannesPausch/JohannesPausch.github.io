@@ -63,6 +63,6 @@ which would be represented by this admittedly simple Feynman diagram
 
 <script type="text/tikz">
   \begin{tikzpicture}
-    \filldraw (-0.5,0) -- (0.5,0) cirlce [radius=0.05cm];
+    \filldraw (-0.5,0) -- (0.5,0) cirlce (0.05cm);
   \end{tikzpicture}
 </script>

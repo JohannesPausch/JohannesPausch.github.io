@@ -16,6 +16,7 @@ Since October 2020, I have also been a Tutor at St. Catharine's College.
 
 ## Publications
 
+- From neuronal spikes to avalanches: Effects and circumvention of time binning. (single author paper). _Phys. Rev. Res._ **4** 023212 (2022)
 - Time-dependent branching processes: a model of oscillating neuronal avalanches. with R. Garcia-Millan and G. Pruessner. _Sci. Rep._ **10** 13678 (2020) 
 - Is actin filament and microtubule growth reaction- or diffusion-limited? with G. Pruessner. _J. Stat. Mech.: Theory Exp._ 053501 (2019)
 - Field-theoretic approach to the universality of branching processes: Garcia-Millan, Pausch, Walter, Pruessner, _Phys. Rev. E_ **98** (2018)

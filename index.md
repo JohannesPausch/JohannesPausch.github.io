@@ -1,6 +1,6 @@
 # Stochastic Processes - Models and Simulations
 
-I'm interested in stochastic processes in nature, society and finance. They can be microscopic, for example in chemical reactions or macroscopic like dynamics of population; they can be on short time scales, as in limit order books, or over a long time such as during the evolution of organisms. 
+I'm interested in stochastic processes in neuroscience, biology and physics. They can be microscopic, for example in chemical reactions or macroscopic like dynamics of population; they can be on short time scales, as in the propagation of action potentials between neurons, or over a long time such as during the evolution of organisms. 
 
 More about me is [here](CV.md).
 My website at St. Catharines' College of the University of Cambridge is [here](https://www.caths.cam.ac.uk/directory/dr-johannes-pausch).

@@ -4,6 +4,8 @@ One of the challenges has been the linking of models of neuronal populations to 
 
 The problems that come with imposing a time bin can be circumvented by a continuous-time model. Here a formula for the moments of interspike time can be derived:
  
- $$\mathbb{E}[T^n|N=m]=$$
+ $$\mathbb{E}[T^n|N=m]=\sum\limits_{\ell=0}^m (\ell sp_2+\gamma)\left(-\frac{\plaind}{\plaind\gamma}\right)^n\left(\frac{1}{\ell s+\gamma}\prod\limits_{k=\ell+1}^m \frac{ksp_0}{ks+\gamma}\right)$$
  
- $\mathbb{E}[T^n]=\sum\limits_{N=0}^\infty f \mathbb{E}[T^n|N=m]$
+ where $\gamma$ is the rate of spontaneous activation of a neuron, $s$ is the rate of a neuron to activate another neuron (with probability $p_2$) or not (with probability $p_0=1-p_2$).
+ 
+ $$\mathbb{E}[T^n]=\sum\limits_{m=1}^\infty f(m-1\uparrow m)\mathbb{E}[T_s^n|N=m]$$

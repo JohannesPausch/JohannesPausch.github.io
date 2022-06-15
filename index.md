@@ -22,7 +22,7 @@ There is a plethora of methods for analytical models out there and a large spect
 ### [Branching](Branching.md)
 ### [Branching and Oscillations in Neuronal Avalanches](OscillatingParameters.md)
 ### Noisy Branching
-### Neural Spikes
+### [Neural Spikes](FromBranchingToSpikes.md)
 ### Coupled Branching
 
 

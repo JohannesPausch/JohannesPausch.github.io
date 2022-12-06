@@ -3,7 +3,7 @@
 I'm interested in stochastic processes in neuroscience, biology and physics. They can be microscopic, for example in chemical reactions or macroscopic like dynamics of population; they can be on short time scales, as in the propagation of action potentials between neurons, or over a long time such as during the evolution of organisms. 
 
 More about me is [here](CV.md).
-My website at St. Catharines' College of the University of Cambridge is [here](https://www.caths.cam.ac.uk/directory/dr-johannes-pausch).
+My website at Imperial College London is [here](https://www.imperial.ac.uk/people/j.pausch15). I work in the group of [Philipp Thomas](https://www.ma.imperial.ac.uk/~pthomas/) on time-dependent models of cell populations in cooperation with the group of [Alexis Barr](https://lms.mrc.ac.uk/research-group/cell-cycle-control/) at the MRC London Institute of Medical Sciences.
 
 My workflow:
 - Identifiy what are the important features (space, interactions, memory?)
@@ -19,6 +19,8 @@ There is a plethora of methods for analytical models out there and a large spect
 
 ## Projects
 
+### Phase transitions of Leaky integrate-and-fire models
+### Time-dependent cell population dynamics
 ### [Branching](Branching.md)
 ### [Branching and Oscillations in Neuronal Avalanches](OscillatingParameters.md)
 ### Noisy Branching

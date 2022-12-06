@@ -1,10 +1,9 @@
 ## Current Role
-Since September 2019: Teaching and Research Fellow and Director of Studies for Mathematics at St. Catharine's College, and at the 
-Department of Applied Mathematics and Theoretical Physics, University of Cambridge.
-Since October 2020, I have also been a Tutor at St. Catharine's College.
+Since Ocotber 2022: Research Associate at Imperial College London in the group of Philipp Thomas.
 
 ## Previous Positions and Education
 
+| 2019 - 2022 | Teaching and Research Fellow, St Catharine's College and DAMTP, U of Cambridge |
 | Apr - Sep 2019 | Doctoral Prize Fellow, Imperial College London |
 | 2015 - 2019 | PhD in Mathematics, Imperial College London |
 | Feb - July 2015 | Nuclear Data Analysis Intern, Target Systemelektronik, Wuppertal, Germany |

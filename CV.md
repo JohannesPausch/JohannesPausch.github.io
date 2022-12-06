@@ -3,7 +3,7 @@ Since Ocotber 2022: Research Associate at Imperial College London in the group o
 
 ## Previous Positions and Education
 
-| 2019 - 2022 | Teaching and Research Fellow, St Catharine's College and DAMTP, U of Cambridge |
+| 2019 - 2022 | Teaching and Research Fellow, Cambridge |
 | Apr - Sep 2019 | Doctoral Prize Fellow, Imperial College London |
 | 2015 - 2019 | PhD in Mathematics, Imperial College London |
 | Feb - July 2015 | Nuclear Data Analysis Intern, Target Systemelektronik, Wuppertal, Germany |

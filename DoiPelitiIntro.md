@@ -6,7 +6,7 @@
 <script src="https://tikzjax.com/v1/tikzjax.js"></script>
 
 Doi-Peliti Field Theory is a method to describe stochastic processes which can be cast in a Master Equation. It is an equivalent representation to the Master Equation and does inprinciple not involve simplifications or approximations which can occur when deriving Fokker-Planck Equations or Langevin Equations.
-The reason why I present some introductory information about Doi-Peliti Field Theory here is that there are not many textbook-level notes avilable and easily accessible. The derivation of Doi-Peliti Field theory follows three steps:
+The reason why I present some introductory information about Doi-Peliti Field Theory here is that there are not many textbook-level notes avilable and easily accessible. [Here](NESFT-Pausch-LectureNotes2020.pdf) are my lecture notes on the topic from the course that I created and taught in Part III at Cambridge in 2020 (online) and 2021 (in-person).  What follows below is a super-quick overview. The derivation of Doi-Peliti Field theory follows three steps:
  <ol>
   <li>Set-up of Master Equation</li>
   <li>Using Second Quantization to derive an equivalent Equation of the Probability Generating Function</li>

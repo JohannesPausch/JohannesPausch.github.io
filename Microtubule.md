@@ -1,0 +1,5 @@
+This was a project with Gunnar Pruessner. The results are published in the Journal of Statistical Mechanics: Theory and Experiment and can be found [here](https://iopscience.iop.org/article/10.1088/1742-5468/ab081c).
+
+## Motivation
+
+Inside cells of living organisms, filaments (microtubules or actin filaments) stochastically grow and shrink. A puzzling observation is that the fluctuations of this growth/shrinking is significantly larger than simple models predict. There are two simple  models: if the dynamics are diffusion-limited, then building blocks travel slowly to the tip of the filament compared to the reaction time to attach it onto the tip. In the reaction-limited model, building blocks are sufficiently present near the tip but the reaction time to attach them is comparatively slow. Neith of these limits explain the observed large flucations. Our paper shows that both limits are the end-points of a spectrum of dynamics. Inbetween these endpoints, fluctuations can be significantly higher which can explain the observations. 
